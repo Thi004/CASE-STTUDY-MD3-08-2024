@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f31d20af-d643-47a8-a91f-2e3a010fa348" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/api-case-react" beforeDir="false" afterPath="$PROJECT_DIR$/api-case-react" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-case-react/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-case-react/router/product.js" beforeDir="false" afterPath="$PROJECT_DIR$/api-case-react/router/product.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseMD3" beforeDir="false" afterPath="$PROJECT_DIR$/caseMD3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseMD3/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/caseMD3" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2kx2J9YzmdMvbxE7i3IPMiYthEt" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/phamt/Downloads/Man Thi/CodeGym/MD3 - React JS/BÀI TẬP/CASE STUDY -REACT JS - 08-2024",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.3.6\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\phamt\Downloads\Man Thi\CodeGym\MD3 - React JS\BÀI TẬP\CASE STUDY -REACT JS - 08-2024\adidas2008\src\components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f31d20af-d643-47a8-a91f-2e3a010fa348" name="Changes" comment="" />
+      <created>1724210832706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724210832706</updated>
+      <workItem from="1724210833710" duration="2098000" />
+      <workItem from="1724288767965" duration="5228000" />
+      <workItem from="1724296924738" duration="37000" />
+      <workItem from="1724324949942" duration="4338000" />
+      <workItem from="1724374784475" duration="8356000" />
+      <workItem from="1724461742539" duration="2425000" />
+      <workItem from="1724464465849" duration="358000" />
+      <workItem from="1724498466980" duration="4769000" />
+      <workItem from="1724633794917" duration="2435000" />
+      <workItem from="1724636268770" duration="3099000" />
+      <workItem from="1724645629641" duration="465000" />
+      <workItem from="1724654126131" duration="648000" />
+      <workItem from="1724654787403" duration="3662000" />
+      <workItem from="1724727738499" duration="996000" />
+      <workItem from="1724728821456" duration="1020000" />
+      <workItem from="1724758180957" duration="900000" />
+      <workItem from="1724808526833" duration="9869000" />
+      <workItem from="1724818871187" duration="1115000" />
+      <workItem from="1724893651383" duration="4550000" />
+      <workItem from="1724932407961" duration="20000" />
+      <workItem from="1724979523011" duration="40000" />
+      <workItem from="1724984015098" duration="4525000" />
+      <workItem from="1725433779711" duration="2000" />
+      <workItem from="1725519058970" duration="1113000" />
+      <workItem from="1725520225358" duration="164000" />
+      <workItem from="1725526504379" duration="304000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
